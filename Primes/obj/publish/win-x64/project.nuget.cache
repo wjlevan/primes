@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ZZjKIX5syIr1/KaU6dZLnhMLUYJPg08LcLpUwNJcPkdqON3bPwg7vyy3O8RPGQ9OtUXTTWav67ioNaRcxfTvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Walter\\source\\repos\\HelloWPFApp\\HelloWPFApp\\Primes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Walter\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

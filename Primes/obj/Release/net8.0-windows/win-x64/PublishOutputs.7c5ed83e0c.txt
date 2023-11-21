@@ -1,0 +1,2 @@
+C:\Users\Walter\source\repos\HelloWPFApp\HelloWPFApp\bin\Release\net8.0-windows\publish\win-x64\Primes.pdb
+C:\Users\Walter\source\repos\HelloWPFApp\HelloWPFApp\bin\Release\net8.0-windows\publish\win-x64\Primes.exe
